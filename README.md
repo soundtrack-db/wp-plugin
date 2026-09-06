@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/WordPress-5.0+-21759b?style=flat-square&logo=wordpress" alt="WordPress">
   <img src="https://img.shields.io/badge/PHP-7.4+-777bb4?style=flat-square&logo=php" alt="PHP">
   <img src="https://img.shields.io/badge/License-GPLv2-green?style=flat-square" alt="License">
-  <a href="https://soundtrackdb.vercel.app/soundtrackdb-wp.zip"><img src="https://img.shields.io/badge/Download-Plugin%20.zip-22c55e?style=flat-square" alt="Download Zip"></a>
+  <a href="https://github.com/soundtrack-db/wp-plugin/raw/main/soundtrackdb-wp.zip"><img src="https://img.shields.io/badge/Download-Plugin%20.zip-22c55e?style=flat-square" alt="Download Zip"></a>
 </p>
 
 The official WordPress plugin for **[SoundtrackDB](https://soundtrackdb.vercel.app/)** — embed verified Spotify movie & TV soundtrack playlists on any post or custom post type with zero API keys required.
@@ -16,7 +16,7 @@ Theme-agnostic: works with **any WordPress theme** that stores a TMDB or IMDb ID
 ## ⚡ Quick Download
 
 Download the ready-to-upload zip directly:
-👉 **[Download soundtrackdb-wp.zip](https://soundtrackdb.vercel.app/soundtrackdb-wp.zip)**
+👉 **[Download soundtrackdb-wp.zip](https://github.com/soundtrack-db/wp-plugin/raw/main/soundtrackdb-wp.zip)**
 
 ---
 
@@ -33,7 +33,7 @@ Download the ready-to-upload zip directly:
 ## 📦 Installation
 
 ### Method 1: Upload via WordPress Admin (Recommended)
-1. Download **[`soundtrackdb-wp.zip`](https://soundtrackdb.vercel.app/soundtrackdb-wp.zip)**.
+1. Download **[`soundtrackdb-wp.zip`](https://github.com/soundtrack-db/wp-plugin/raw/main/soundtrackdb-wp.zip)**.
 2. In your WordPress Admin dashboard, navigate to **Plugins ➔ Add New ➔ Upload Plugin**.
 3. Choose `soundtrackdb-wp.zip` and click **Install Now**.
 4. Click **Activate Plugin**.
